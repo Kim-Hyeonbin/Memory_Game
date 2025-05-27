@@ -105,11 +105,11 @@
     </comp>
     <comp lib="0" loc="(140,180)" name="Tunnel">
       <a name="facing" val="south"/>
-      <a name="label" val="start"/>
+      <a name="label" val="Start"/>
     </comp>
     <comp lib="0" loc="(170,920)" name="Tunnel">
       <a name="facing" val="east"/>
-      <a name="label" val="start"/>
+      <a name="label" val="Start"/>
     </comp>
     <comp lib="0" loc="(230,270)" name="Tunnel">
       <a name="label" val="D"/>
@@ -119,7 +119,7 @@
     </comp>
     <comp lib="0" loc="(250,140)" name="Tunnel">
       <a name="facing" val="south"/>
-      <a name="label" val="fail"/>
+      <a name="label" val="Fail"/>
     </comp>
     <comp lib="0" loc="(290,220)" name="Tunnel">
       <a name="label" val="A"/>
@@ -135,7 +135,7 @@
     </comp>
     <comp lib="0" loc="(310,140)" name="Tunnel">
       <a name="facing" val="south"/>
-      <a name="label" val="success"/>
+      <a name="label" val="Success"/>
     </comp>
     <comp lib="0" loc="(350,270)" name="Tunnel">
       <a name="label" val="B"/>
@@ -144,7 +144,7 @@
       <a name="label" val="b"/>
     </comp>
     <comp lib="0" loc="(390,1020)" name="Tunnel">
-      <a name="label" val="fail"/>
+      <a name="label" val="Fail"/>
     </comp>
     <comp lib="0" loc="(390,1060)" name="Tunnel">
       <a name="label" val="OK"/>
@@ -159,7 +159,7 @@
       <a name="label" val="B"/>
     </comp>
     <comp lib="0" loc="(430,1040)" name="Tunnel">
-      <a name="label" val="success"/>
+      <a name="label" val="Success"/>
     </comp>
     <comp lib="0" loc="(430,1080)" name="Tunnel">
       <a name="label" val="Remember_the_pattern"/>
@@ -265,7 +265,7 @@
     </comp>
     <comp lib="5" loc="(430,500)" name="7-Segment Display"/>
     <comp lib="5" loc="(490,500)" name="7-Segment Display"/>
-    <comp lib="8" loc="(478,472)" name="Text">
+    <comp lib="8" loc="(475,470)" name="Text">
       <a name="text" val="Your Score"/>
     </comp>
     <comp lib="9" loc="(430,500)" name="BCD_to_7_Segment_decoder"/>
