@@ -262,6 +262,7 @@
     <comp lib="5" loc="(430,410)" name="LED">
       <a name="color" val="#00f006"/>
       <a name="facing" val="east"/>
+      <a name="offcolor" val="#ffffff"/>
     </comp>
     <comp lib="5" loc="(430,500)" name="7-Segment Display"/>
     <comp lib="5" loc="(490,500)" name="7-Segment Display"/>
